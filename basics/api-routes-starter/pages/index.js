@@ -9,7 +9,7 @@ export default function Home({ allPostsData }) {
   return (
     <Layout home>
       <Head>
-        <title>{Waleed}</title>
+        <title>{Waleed, Jamal}</title>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>[Hussam Stinks at Fc24]</p>
